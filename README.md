@@ -1,9 +1,4 @@
-# MailTM API Wrapper
 
-[![Downloads](https://pepy.tech/badge/mailtm)](https://pepy.tech/project/mailtm)
-
-[![Downloads](https://pepy.tech/badge/mailtm/month)](https://pepy.tech/project/mailtm)
-[![Downloads](https://pepy.tech/badge/mailtm/week)](https://pepy.tech/project/mailtm)
 
 MailTm is a free temporary mail service, This library is useful for automation tasks such as making accounts that needs email verification.
 
